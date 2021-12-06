@@ -37,7 +37,7 @@
 <br>
 
 <p align="left">
-    <h1 style="font-size:40px;" align="center">✩&emsp;drknzz&emsp;✩</h1>
+    <h2 style="font-size:40px;" align="center">✩&emsp;drknzz&emsp;✩</h2>
 </p>
 
 
