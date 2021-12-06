@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center">
+    <h3 align="center">✩&emsp;drknzz&emsp;✩</h3>
+</p>
 
-<!--
-**drknzz/drknzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Yoooooooooooooooo;Welcome+to+my+profile!;Have+a+look+around!&font=Fira%20Code&color=%23D62F79&center=true&width=380&height=50">
+</p>
 
-Here are some ideas to get you started:
+<!-- markdownlint-enable MD033 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drknzz&theme=jolly&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![](https://komarev.com/ghpvc/?username=drknzz&color=blueviolet) -->
