@@ -15,7 +15,7 @@
 </p> -->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drknzz&theme=jolly&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz)](https://github.com/anuraghazra/github-readme-stats) -->![144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f](https://user-images.githubusercontent.com/65187002/144934217-a285f613-abad-469b-a355-5fa5dd5d029f.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drknzz)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- <p align="center">
