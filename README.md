@@ -1,6 +1,8 @@
 <p align="center">
-    <img width="35%" id="preview" src="https://user-images.githubusercontent.com/65187002/144928016-604f0cd8-0460-481a-9805-921629843699.gif">
+    <img width="50%" id="preview" src="https://user-images.githubusercontent.com/65187002/144929084-b10bb8fd-f485-4d26-8851-ca49defde297.gif">
 </p>
+<!-- https://user-images.githubusercontent.com/65187002/144928970-ad56610b-0523-4d9f-b5d4-e5588d51c0b6.gif 120 -->
+<!-- https://user-images.githubusercontent.com/65187002/144929084-b10bb8fd-f485-4d26-8851-ca49defde297.gif 60 -->
 
 <!-- <p align="center">
     <h3 align="center"><img id="preview" width="50" height="50" src="https://user-images.githubusercontent.com/65187002/144927039-03f0ac8b-1536-460b-92d3-cb8c433bf1bf.gif">&emsp;drknzz&emsp;✩</h3>
