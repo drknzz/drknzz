@@ -1,4 +1,12 @@
 <p align="center">
+    <img width="35%" id="preview" src="https://user-images.githubusercontent.com/65187002/144928016-604f0cd8-0460-481a-9805-921629843699.gif">
+</p>
+
+<!-- <p align="center">
+    <h3 align="center"><img id="preview" width="50" height="50" src="https://user-images.githubusercontent.com/65187002/144927039-03f0ac8b-1536-460b-92d3-cb8c433bf1bf.gif">&emsp;drknzz&emsp;✩</h3>
+</p>
+ -->
+<p align="center">
     <h3 align="center">✩&emsp;drknzz&emsp;✩</h3>
 </p>
 
@@ -17,3 +25,9 @@
 <p align="center">
     <img id="preview" src="https://komarev.com/ghpvc/?username=drknzz&color=grey">
 </p>
+
+
+
+<!-- <p align="center">
+    <img id="preview" width="50" height="50" src="https://user-images.githubusercontent.com/65187002/144925415-211153ae-d35c-49f6-a0c0-b7ce56855bf5.gif">
+</p> -->
