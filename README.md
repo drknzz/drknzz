@@ -4,7 +4,6 @@
 
 <p align="center">
     <h1 align="center">✩&emsp;drknzz&emsp;✩</h1>
-    <!--     <h3 align="center">✩&emsp;drknzz&emsp;✩</h3> -->
 </p>
 
 <p align="center">
